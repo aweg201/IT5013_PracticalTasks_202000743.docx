@@ -6,9 +6,11 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 
   (a)	the information is collected for a lawful purpose connected with a function or activity of the agency; and
   
-  
   (b)	the collection of the information is necessary for that purpose.
     
+**Privacy Checklist**
+  
+ 
   
 - [ ] Principle 5 - Storage and security of personal information
 
@@ -22,7 +24,7 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
     
   (b)	that if it is necessary for the information to be given to a person in connection with the provision of a service to the agency, everything reasonably within the power of    the agency is done to prevent unauthorised use or unauthorised disclosure of the information.
 
-
+**Privacy Checklist**
 
 - [ ] Principle 6 - Access to personal information
 
@@ -36,7 +38,7 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
   
   (3)	The application of this principle is subject to the provisions of Parts 4 and 5.
 
-
+**Privacy Checklist**
 
 - [ ]  Principle 7 - Correction of personal information
 
@@ -54,6 +56,7 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
   
   (5)	Where an agency receives a request made pursuant to subclause (1), the agency shall inform the individual concerned of the action taken as a result of the request.
 
+**Privacy Checklist**
 
 - [ ]  Principle 10 - Limits on use of personal information
 
@@ -90,8 +93,7 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
     (g)	that the use of the information is in accordance with an authority granted under section 54.
     
   (2)	In addition to subclause (1), an intelligence and security agency that holds personal information that was obtained in connection with one purpose may use the information    for any other purpose (a secondary purpose) if the agency believes on reasonable grounds that the use of the information for the secondary purpose is necessary to enable the    agency to perform any of its functions.
- 
-
-
+  
+**Privacy Checklist**
 
 PRACTICAL TASK 2: IT AND BUSINESS (LO2, 3)
