@@ -36,7 +36,7 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 
 - [ ] Ensure the information is only accesed in cases where it use is neccessary
 
-- [ ] Ensure that anyone who requests access to the information is properly trained in the handling of private information e.g via training qualifications, privacy agrrements         and contracts.
+- [ ] Ensure that anyone who requests access to the information is properly trained in the handling of private information e.g via training qualifications, privacy agreements         and contracts.
 
 
 **- [ ] Principle 6 - Access to personal information**
@@ -55,9 +55,13 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 
 - [ ] Ensure clients are aware of what personal information the organisation does and does not collect
 
-- [ ] Allow clients to access their own verified personal information 
+- [ ] Allow clients to access their own verified personal information
 
-- [ ] Verify that 
+- [ ] Ensure clients are informed that they can edit personal information
+
+- [ ] Ensure that in the course of accesesing personal information the information is still kept secure and stored appropriately
+
+- [ ] Ensure that when the information is accesesd/edited it is done in a lawful manner without intruding upon the clients privacy any more than is neccessary
 
 
 **- [ ]  Principle 7 - Correction of personal information**
