@@ -9,7 +9,11 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
   (b)	the collection of the information is necessary for that purpose.
     
 **Privacy Checklist**
-  
+
+   - [ ]  Create a list of all information that will be needed for the organisation to fufill its purpose
+   
+   - [ ]  Ensure that only information from this list is requested
+   
  
   
 - [ ] Principle 5 - Storage and security of personal information
@@ -26,6 +30,15 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 
 **Privacy Checklist**
 
+- [ ] Ensure that all information gathered is stored collectively in an area secured by a trusted cyber-security system designed for that purpose
+
+- [ ] Ensure this information is only accessible to those with proper clearance e.g. the client who's information it is or staff whose job it is to handle private                 information.
+
+- [ ] Ensure the information is only accesed in cases where it use is neccessary
+
+- [ ] Ensure that anyone who requests access to the information is properly trained in the handling of private information e.g via training qualifications, privacy agrrements         and contracts.
+
+
 - [ ] Principle 6 - Access to personal information
 
   (1)	Where an agency holds personal information in such a way that it can readily be retrieved, the individual concerned shall be entitled—
@@ -39,6 +52,13 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
   (3)	The application of this principle is subject to the provisions of Parts 4 and 5.
 
 **Privacy Checklist**
+
+- [ ] Ensure clients are aware of what personal information the organisation does and does not collect
+
+- [ ] Allow clients to access their own verified personal information 
+
+- [ ] Verify that 
+
 
 - [ ]  Principle 7 - Correction of personal information
 
@@ -58,7 +78,14 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 
 **Privacy Checklist**
 
-- [ ]  Principle 10 - Limits on use of personal information
+- [ ] Allow verified clients access to their personal information and where appropriate the ability to edit such information
+- [ ] Allow for the capability to update/correct information by both the organisation and the client as needed
+- [ ] Ensure the client is informed of any changes made to their personal information via appropriate means e.g. password change verification emailed to personal email address
+- [ ] Where editing of information is innapropriate allow the client the option of attaching notes to the information informing others of the requested but denied change
+
+
+
+[ ]  Principle 10 - Limits on use of personal information
 
   (1)	An agency that holds personal information that was obtained in connection with one purpose shall not use the information for any other purpose unless the agency believes,    on reasonable grounds,—
   
@@ -97,3 +124,8 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 **Privacy Checklist**
 
 PRACTICAL TASK 2: IT AND BUSINESS (LO2, 3)
+
+
+***Website: Amazon.com***
+
+Amazon.com is one of the worlds largest companies in dealing with online shopping primarily in technology and accesories. 
