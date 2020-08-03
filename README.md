@@ -2,7 +2,7 @@
 
 PRACTICAL TASK 1: IT AND LAW (LO1)
 
-**- [ ] Principle 1 - Purpose of collection of personal information**
+**Principle 1 - Purpose of collection of personal information**
 
   (a)	the information is collected for a lawful purpose connected with a function or activity of the agency; and
   
@@ -16,7 +16,7 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
    
  
   
-**- [ ] Principle 5 - Storage and security of personal information**
+**Principle 5 - Storage and security of personal information**
 
   (a)	that the information is protected, by such security safeguards as it is reasonable in the circumstances to take, against—
   
@@ -39,7 +39,7 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 - [ ] Ensure that anyone who requests access to the information is properly trained in the handling of private information e.g via training qualifications, privacy agreements         and contracts.
 
 
-**- [ ] Principle 6 - Access to personal information**
+**Principle 6 - Access to personal information**
 
   (1)	Where an agency holds personal information in such a way that it can readily be retrieved, the individual concerned shall be entitled—
   
@@ -64,7 +64,7 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 - [ ] Ensure that when the information is accesesd/edited it is done in a lawful manner without intruding upon the clients privacy any more than is neccessary
 
 
-**- [ ]  Principle 7 - Correction of personal information**
+**Principle 7 - Correction of personal information**
 
   (1) Where an agency holds personal information, the individual concerned shall be entitled—
   
@@ -88,7 +88,7 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 - [ ] Where editing of information is innapropriate, allow the client the option of attaching notes to the information informing others of the requested but denied change
 
 
-**- [ ]  Principle 10 - Limits on use of personal information**
+**Principle 10 - Limits on use of personal information**
 
   (1)	An agency that holds personal information that was obtained in connection with one purpose shall not use the information for any other purpose unless the agency believes,    on reasonable grounds,—
   
