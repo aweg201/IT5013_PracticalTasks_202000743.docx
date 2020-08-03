@@ -126,11 +126,12 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
   
 **Privacy Checklist**
 
-- [ ] 
+- [ ] All information collected shall be kept locked in secured files and shall only be accessed by the organisation with the intent of fufilling the agreeded upon                    service/purpose with certian exceptions
+- [ ] Exceptions to this include if doing so puts another person/s at harm, interferes with a lawful investigation, if the information collected is classified as impersonal           information, or if the client agrees/requests to share the information
 
 
 #**Privacy Policy**#
 
 ***Website: Amazon.com***
 
-Amazon.com is one of the worlds largest companies in dealing with online shopping. Their website advertises products ranging from technology, toys clothes and beauty products. The companies capable of shipping its goods to nearly every corner of the globe..
+Amazon.com is one of the worlds largest companies in dealing with online shopping. Their website advertises products ranging from technology, toys clothes and beauty products. The company is capable of shipping its goods to nearly every corner of the globe.
