@@ -132,6 +132,9 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 
 #**Privacy Policy**#
 
-***Website: Amazon.com***
+***Website: https://www.amazon.com/ ***
 
-Amazon.com is one of the worlds largest companies in dealing with online shopping. Their website advertises products ranging from technology, toys clothes and beauty products. The company is capable of shipping its goods to nearly every corner of the globe.
+Amazon.com is a technology company that sells and distributes goods online. Amazon is capable of shipping its goods to nearly every corner of the globe. The company also acts as an intermediary to advertise/sell the goods produced by other companiess. In order to facilitate this service it collects not only information from clients (name, address, contact details, search prefernces etc.) but also information from its third party service providers.  
+
+"Privacy Policy" https://www.privacypolicygenerator.info/live.php?token=Zqef8uLJYplm9QNi2unsxVlW4ZJ0ZRFT
+
