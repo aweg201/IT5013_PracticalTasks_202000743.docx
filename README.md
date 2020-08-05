@@ -167,3 +167,6 @@ For security reason Amazon will automatically send an email to the Accounts cont
 Amazon only uses information gathered for the purpose of providing/enhancing the service provided.  
 Many of Amazon Services also include settings that provide the client with options as to how their information is being used.  In this way they may choose to opt out of providing cetian information with the understanding that this may affect what services Amazon can provide.
 Amazon does reserve the right to release personal information if not doing so would be considered a breach of the law or in the case where a breach of the Conditions of use is identified
+
+
+
