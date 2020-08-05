@@ -160,9 +160,10 @@ If the client wishes to access information that is not in the Profile they can d
 Amazons account profile also gives customers the ability to edit certian personal information for the purpose of correction
 Certian information is also updated automatically for example Age
 If the client wishes to edit information that is not part of the Account profile they may contact Customer service and request to do so.  However Amazon reserves the right to deny this change. If such is the case the client may choose to attach an annotation with the requested information.
-For security reason Amazon will automatically send a email to the Acounts contact to confirm the change of information
+For security reason Amazon will automatically send an email to the Accounts contact to confirm the change of information
 
 **Policy 10 Limits on use of personal information**
 
-Amazon only uses information gathered for the purpose of providing/enhancing the seervice provided.
-
+Amazon only uses information gathered for the purpose of providing/enhancing the service provided.  
+Many of Amazon Services also include settings that provide the client with options as to how their information is being used.  In this way they may choose to opt out of providing cetian information with the understanding that this may affect what services Amazon can provide.
+Amazon does reserve the right to release personal information if not doing so would be considered a breach of the law or in the case where a breach of the Conditions of use is identified
