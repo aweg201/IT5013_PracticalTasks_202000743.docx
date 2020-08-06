@@ -188,6 +188,6 @@ Principle seventh is enforced by allowing the Amazon users the ability to edit c
 
 **Principle 10 - Limits on use of personal information**
 
-Principle ten is followed by reassuring customers that Amazon only uses the colected information for the purpose of providing the service or in order to improve the service.
+Principle ten is followed by reassuring customers that Amazon only uses the collected information for the purpose of providing the service or in order to improve the service.
 Users are also given the option of choosing to opt out of providing certian information they might not want to provide, with the understanding that this may affect certians services Amazon can provide
 
