@@ -138,35 +138,32 @@ Amazon.com is a technology company that sells and distributes goods online. Amaz
 
 "Privacy Policy" https://www.privacypolicygenerator.info/live.php?token=Zqef8uLJYplm9QNi2unsxVlW4ZJ0ZRFT
 
-**Policy 1: What information do we collect**
+**What information do we collect**
 
 Amazon collects personal infromation for the prupose of improving its products and service
 We collect information supplied by clients upon signing up for example name, delivery address, age, contact details, credit/debit card information, profile pictures, sync contacts and customer feedback
 We also collect some information automatically for example your product search history, device location, purchase history, device usage, IP address
 
-**Policy 5 Storage and security of personal information**
+**Storage and security of personal information**
 
 Amazon ensures all information collected is kept secure via proper security protocols and encryption.    
 Certian safeguards are put into place to help prevent unauthorised access to personal information this may mean that proof of identity, such as verification from email address or phone, will be requested at certian points.
 Amazon also provides secure handling of payment information by folowing the Payment Card Industry Data Security Standard (PCI DSS)
 
-**Policy 6 Access to personal information**
+**Access/Correction of personal information**
 
 Clients are able to access their personal information via their Account profile where information such as name, address, payment options, profile information, purchase history and settings can be accessed.
 If the client wishes to access information that is not in the Profile they can do so by contacting Cutomer Service
-
-**Policy 7 Correction of personal information**
-
 Amazons account profile also gives customers the ability to edit certian personal information for the purpose of correction
 Certian information is also updated automatically for example Age
 If the client wishes to edit information that is not part of the Account profile they may contact Customer service and request to do so.  However Amazon reserves the right to deny this change. If such is the case the client may choose to attach an annotation with the requested information.
 For security reason Amazon will automatically send an email to the Accounts contact to confirm the change of information
 
-**Policy 10 Limits on use of personal information**
+**Limits on use of personal information**
 
 Amazon only uses information gathered for the purpose of providing/enhancing the service provided.  
 Many of Amazon Services also include settings that provide the client with options as to how their information is being used.  In this way they may choose to opt out of providing cetian information with the understanding that this may affect what services Amazon can provide.
 Amazon does reserve the right to release personal information if not doing so would be considered a breach of the law or in the case where a breach of the Conditions of use is identified
 
 
-
+**Implementation of Five Principles**
