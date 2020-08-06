@@ -172,7 +172,7 @@ Amazon does reserve the right to release personal information if not doing so wo
 
 **Principle 1 Purpose of information**
 
-The first principle is implemented simply by ensuring the client knows what information is collected upon signing up to Amazon as well as the primary use for it. Namely to provide the service promised or to improve on the service in some way.
+The first principle is implemented simply by ensuring the client knows what information is used for when it is collected. Namely to provide the service promised or to improve on the service in some way. When the users registers an account they are asked for certian information as well as what this information is used for.
 
 **Principle 5 - Storage and security of personal information**
 
@@ -180,7 +180,7 @@ The fifth principle is implemented by ensuring a that all information is kept se
 
 **Principle 6 - Access to personal information**
 
-Principle sixth is implemented by ensuring Amazon customers have access to an account profile with lists and settings of their personal information
+Principle sixth is implemented informing Amazon customers that they have access to an account profile with lists and settings of their personal information
 
 **Principle 7 - Correction of personal information**
 
