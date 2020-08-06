@@ -180,14 +180,14 @@ The fifth principle is implemented by ensuring a that all information is kept se
 
 **Principle 6 - Access to personal information**
 
-Principle 6 is implemented by ensuring Amazon customers have access to an account profile with lists and settings of their personal information
+Principle sixth is implemented by ensuring Amazon customers have access to an account profile with lists and settings of their personal information
 
 **Principle 7 - Correction of personal information**
 
-Principle 7 is enforced by allowing the Amazon users the ability to edit certian personal information from their account settings.  
+Principle seventh is enforced by allowing the Amazon users the ability to edit certian personal information from their account settings.  
 
 **Principle 10 - Limits on use of personal information**
 
-Principle 10 is followed by reassuring customers that Amazon only uses the colected information for the purpose of providing the service or in order to improve the service.
+Principle ten is followed by reassuring customers that Amazon only uses the colected information for the purpose of providing the service or in order to improve the service.
 Users are also given the option of choosing to opt out of providing certian information they might not want to provide, with the understanding that this may affect certians services Amazon can provide
 
