@@ -12,6 +12,8 @@ PRACTICAL TASK 1: IT AND LAW (LO1)
 
    - [ ]  Create a list of all information that will be needed for the organisation to fufill its purpose
    
+   - [ ]  Ensure clients are made aware of all the information collected and its purpose
+   
    - [ ]  Ensure that only information from this list is requested
    
  
@@ -167,3 +169,25 @@ Amazon does reserve the right to release personal information if not doing so wo
 
 
 **Implementation of Five Principles**
+
+**Principle 1 Purpose of information**
+
+The first principle is implemented simply by ensuring the client knows what information is collected upon signing up to Amazon as well as the primary use for it. Namely to provide the service promised or to improve on the service in some way.
+
+**Principle 5 - Storage and security of personal information**
+
+The fifth principle is implemented by ensuring a that all information is kept secure behind safeguards such as encryption or security protocols
+
+**Principle 6 - Access to personal information**
+
+Principle 6 is implemented by ensuring Amazon customers have access to an account profile with lists and settings of their personal information
+
+**Principle 7 - Correction of personal information**
+
+Principle 7 is enforced by allowing the Amazon users the ability to edit certian personal information from their account settings.  
+
+**Principle 10 - Limits on use of personal information**
+
+Principle 10 is followed by reassuring customers that Amazon only uses the colected information for the purpose of providing the service or in order to improve the service.
+Users are also given the option of choosing to opt out of providing certian information they might not want to provide, with the understanding that this may affect certians services Amazon can provide
+
